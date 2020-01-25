@@ -1,0 +1,47 @@
+
+header{
+    background: black;
+}
+body{
+    background-size: cover;
+    
+}
+.nav{
+  background: #000;
+  height: 80px; 
+  width: 100%;
+  height: 90px;
+}
+.nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: -50px ;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-size: 15px;
+    font-family: 'Segoe UI', 'Helvetica Neue'
+    
+}
+.nav a:hover{
+    background-color: rgb(206, 182, 182);
+    }
+.brand{
+    color: white;
+    margin-left: 950px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: Arial;
+    float: left;
+}
+.separator img{
+   display: inline-block;
+   margin: 60px;
+   border: 4px solid rgb(97, 69, 32);
+   padding: 20px;
+   
+}
+h1{
+    text-align: center;
+}
